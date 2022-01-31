@@ -11,4 +11,4 @@ This program filters a list of emails based on the conditions of a spam list. Th
  non-spam emails into a new .txt file
 
 ### Example:
- 
+![alt text](https://github.com/JimPalomo/Email-Spam-Filter/blob/main/assets/sample-1.png)
